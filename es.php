@@ -322,5 +322,5 @@ return [
 
     'language_code' => 'es',
     'language_name' => 'Español',
-    'language_version' => '1.0.0'
+    'language_version' => '1.1.8'
 ];
